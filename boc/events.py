@@ -1,0 +1,6 @@
+import pygame
+
+
+EVENT_GEN_CIRCLE = pygame.USEREVENT + 1
+EVENT_RULE_STEPUP = pygame.USEREVENT + 2
+EVENT_ALLOW_RESTART = pygame.USEREVENT + 3
